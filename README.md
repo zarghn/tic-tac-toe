@@ -129,5 +129,4 @@ This project helped me practice core React concepts:
 
 ## 📄 License
 
-This project was built for learning purposes. Feel free to use it as inspiration for your own learning projects.<img width="3556" height="2000" alt="UI-SITWWWW" src="https://github.com/user-attachments/assets/496d0526-97c5-4920-8eb1-d7c39221f44e" />
-<img width="3556" height="2000" alt="UI-SITWWWW" src="https://github.com/user-attachments/assets/41303aab-f75b-482d-bf43-2a0884a40868" />
+This project was built for learning purposes. Feel free to use it as inspiration for your own learning projects.
